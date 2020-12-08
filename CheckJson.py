@@ -1,3 +1,4 @@
+## -*- coding: utf-8 -*-
 from jsonschema import Draft7Validator
 import json
 import jsonschema
